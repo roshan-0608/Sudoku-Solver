@@ -1,0 +1,2 @@
+# Sudoku-Solver
+Sudoku is a logic-based, combinatorial number-placement puzzle. The objective of the puzzle is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 sub-grids contains all of the digits from 1 to 9. The puzzle starts with some cells already filled with numbers, which serves as a constraint on the possible solutions. The difficulty of the puzzle depends on the number of pre-filled cells and the arrangement of these numbers.
